@@ -50,7 +50,7 @@ Pipeline for mutation detection and resistance marker identification in *Mycobac
 ### 🧪 scRNA-seq Cell Type Annotation
 Single-cell clustering and marker-based annotation workflow.
 
-### 🤖 Research Intelligence System
+### 🤖 Personalized Research Intelligence System
 AI-assisted literature mining and hypothesis generation for biomedical research.
 
 ---
